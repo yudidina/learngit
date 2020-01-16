@@ -1,3 +1,5 @@
 #This will be used for ignoring some files.
 
 password.txt #密码
+
+LICENSE.txt #许可证
